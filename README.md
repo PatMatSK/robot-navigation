@@ -1,4 +1,8 @@
-# robot-navigation
+Robot navigation
+-
+
+(This project was done as semestral work at CTU-FIT BI-PSI)
+
 
 The goal of the task is to create a multi-threaded server for TCP/IP communication and implement the communication protocol
 according to the given specification.
@@ -9,4 +13,4 @@ system. For testing purposes, each robot starts at random coordinates and tries 
 must pick up the secret. On the way to the destination, the robots may encounter obstacles that they must avoid.
 The server can navigate multiple robots at the same time and implements a flawless communication protocol.
 
-full specification can be found in czech in specification.html
+Full specification can be found in czech in specification.html.
